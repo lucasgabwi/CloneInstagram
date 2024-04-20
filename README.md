@@ -1,2 +1,2 @@
 # CloneInstagram
-[clone-instagram-lucasgabwi.vercel.app](https://clone-instagram-lucasgabwi.vercel.app/)https://clone-instagram-lucasgabwi.vercel.app/
+[Link do projeto](https://clone-instagram.vercel.app)
